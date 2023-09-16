@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdapp=self.webpackChunkdapp||[]).push([[955],{1955:(e,o,t)=>{t.r(o),t.d(o,{default:()=>n});var d=null;"undefined"!==typeof WebSocket?d=WebSocket:"undefined"!==typeof MozWebSocket?d=MozWebSocket:"undefined"!==typeof t.g?d=t.g.WebSocket||t.g.MozWebSocket:"undefined"!==typeof window?d=window.WebSocket||window.MozWebSocket:"undefined"!==typeof self&&(d=self.WebSocket||self.MozWebSocket);const n=d}}]);
+//# sourceMappingURL=955.28b16873.chunk.js.map
