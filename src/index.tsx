@@ -46,7 +46,7 @@ if (!rootElement) throw new Error("Failed to find the root element");
 const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={"/"}>
       <WagmiConfig config={wagmiConfig}>
         <Routes>
           <Route path="/" element={<App />} />{/*Δρομολόγηση στην αρχική σελίδα με το component App */}
